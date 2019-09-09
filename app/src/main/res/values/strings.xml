@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name" translatable="false">Split the Bill</string>
+    <string name="btnCost" translatable="false">Cost of Bill</string>
+    <string name="txtTitle" translatable="false">Your Bill</string>
+    <string name="imgRestaraunt" translatable="false">Image of Restaurant</string>
+    <string name="prompt" translatable="false">Quality of Service</string>
+    <string name="txtPeople" translatable="false">Number of People</string>
+    <string-array name="txtService">
+        <item>Excellent</item>
+        <item>Average</item>
+        <item>Poor</item>
+    </string-array>
+    <string name="txtBill" translatable="false">Cost of Bill</string>
+</resources>
